@@ -1,4 +1,4 @@
-package org.uka0001;
+package org.uka0001.oracleExamples;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.geom.*;

@@ -1,4 +1,4 @@
-package org.uka0001;
+package org.uka0001.oracleExamples;
 /*The getCodeBase method used in this example
  returns the URL of the directory containing
   this applet when the applet is deployed on

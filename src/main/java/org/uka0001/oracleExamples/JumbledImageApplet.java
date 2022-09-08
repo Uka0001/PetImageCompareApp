@@ -1,4 +1,4 @@
-package org.uka0001;
+package org.uka0001.oracleExamples;
 import java.io.*;
 import java.net.*;
 import java.awt.*;
